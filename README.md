@@ -14,4 +14,4 @@ University/College and it also show the different Event’s occurring in his/her
 • Students can easily find Broker’s for their Living, can easily get information for nearby
 restaurant for their Eating. \
 • Getting contact of their Senior form which, they can get help. \
-• They can contact their Activity Head easily. \
+• They can contact their Activity Head easily. 
