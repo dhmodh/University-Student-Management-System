@@ -21,6 +21,7 @@ restaurant for their Eating. \
 ◼ For security purpose New Registration is done using OTP. \
 ◼ Outputs, methods and user data input will be lot easy after the implement of GUI. \
 ◼ We will make database more consistent and We are making this database efficient and easy to
-implement with huge data capacity.◼ Methods and user data input will be lot easy after the implement of GUI. \
+implement with huge data capacity. \
+◼ Methods and user data input will be lot easy after the implement of GUI. \
 ◼ We will also add some extra features so that the users can get answer for their complaints as fast as
 possible.
