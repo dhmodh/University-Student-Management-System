@@ -11,10 +11,10 @@ want to buy them, and also for eating it will show restaurants. \
 University/College and it also show the different Event’s occurring in his/her University/College.
 
 ## OBJECTIVES OF THE PROPOSED SYSTEM
-• Students can easily find Broker’s for their Living, can easily get information for nearby
+:desktop_computer: Students can easily find Broker’s for their Living, can easily get information for nearby
 restaurant for their Eating. \
-• Getting contact of their Senior form which, they can get help. \
-• They can contact their Activity Head easily. 
+:desktop_computer: Getting contact of their Senior form which, they can get help. \
+:desktop_computer: They can contact their Activity Head easily. 
 
 ## Future Enhancements of the System
 ◼ We will design Front-end Design in HTML, CSS, JavaScript and Develop Bank-end in Python. \
